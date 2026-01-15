@@ -58,6 +58,3 @@ Variables included:
   - Linear regression  
 
 ---
-
-## Project Structure
-
